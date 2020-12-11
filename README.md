@@ -9,4 +9,4 @@ but also their corresponding lemmas and part of speech tags.
 As it is currently written, parseptron can only train on and parse sentences
 that come from .conllu-formatted Universal Dependencies files.
 
-Usage examples and JSON-formatted weights file examples still yet to come.
+Usage examples and examples of JSON-formatted weights files still yet to come.
